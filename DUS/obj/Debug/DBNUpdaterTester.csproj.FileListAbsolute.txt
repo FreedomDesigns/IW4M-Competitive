@@ -1,0 +1,5 @@
+F:\Games\Game Files\Cod Code\Aiw34\aiw3\legacy-updater\Normal\Updater\Updater.exe
+F:\Games\Game Files\Cod Code\Aiw34\aiw3\legacy-updater\Normal\Updater\Updater.pdb
+F:\Games\Game Files\Cod Code\Aiw34\aiw3\legacy-updater\DBNUpdaterUpdater\obj\Debug\DBNUpdaterTester.csprojResolveAssemblyReference.cache
+F:\Games\Game Files\Cod Code\Aiw34\aiw3\legacy-updater\DBNUpdaterUpdater\obj\Debug\Updater.exe
+F:\Games\Game Files\Cod Code\Aiw34\aiw3\legacy-updater\DBNUpdaterUpdater\obj\Debug\Updater.pdb

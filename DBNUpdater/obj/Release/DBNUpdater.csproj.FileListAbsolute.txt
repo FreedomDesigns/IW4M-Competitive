@@ -1,0 +1,4 @@
+F:\Games\Game Files\Cod Code\Aiw34\aiw3\legacy-updater\Normal\Updater\DBNUpdater.dll
+F:\Games\Game Files\Cod Code\Aiw34\aiw3\legacy-updater\Normal\Updater\DBNUpdater.pdb
+F:\Games\Game Files\Cod Code\Aiw34\aiw3\legacy-updater\DBNUpdater\obj\Release\DBNUpdater.dll
+F:\Games\Game Files\Cod Code\Aiw34\aiw3\legacy-updater\DBNUpdater\obj\Release\DBNUpdater.pdb
